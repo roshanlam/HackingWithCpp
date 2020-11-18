@@ -1,0 +1,2 @@
+brew install brewsci/bio/seqan@3
+brew install gcc@7
